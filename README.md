@@ -1,2 +1,2 @@
 # TOP_AdminDashboard
-Mock dashboard to practice web development. Project from: https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard
+Mock dashboard to practice web development. View at: https://kmak134.github.io/TOP_AdminDashboard/
